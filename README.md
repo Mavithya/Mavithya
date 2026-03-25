@@ -15,12 +15,49 @@
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+
+<h2 align="left">Languages & Tools</h2>
+
+<!-- Programming Languages -->
+<h3 align="left">💻 Programming Languages</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cs,java,python,js,ts,php" />
+</p>
+
+<!-- Frontend -->
+<h3 align="left">🎨 Frontend Development</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,vue,bootstrap,tailwind,angular" />
+</p>
+
+<!-- Backend -->
+<h3 align="left">⚙️ Backend Development</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,dotnet,nextjs" />
+</p>
+
+<!-- Data Science & AI -->
+<h3 align="left">🤖 Data Science & AI</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
+</p>
+
+<!-- Databases -->
+<h3 align="left">🗄️ Databases</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+<!-- Tools -->
+<h3 align="left">🛠️ Tools & Platforms</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma" />
+</p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Mavithya"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Mavithya" /></a></p><br><br>
-
+<br>
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mavithya&show_icons=true&locale=en&layout=compact" alt="mavithya" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mavithya&show_icons=true&locale=en" alt="mavithya" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mavithya&show_icons=true&locale=en" alt="mavithya" /></p>
