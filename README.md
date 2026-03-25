@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Mavithya Mihirud.</h1>
-<h3 align="center">A passionate frontend developer.</h3>
+<h3 align="center">AI and Tech Enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mavithya&label=Profile%20views&color=0e75b6&style=flat" alt="mavithya" /> </p>
 
-- 🔭 I’m currently working on **studying at FCT UOK.**
+- 🔭 I’m currently  **studying Computer Science at FCT UOK.**
 
-- 🌱 I’m currently learning **C , Python , Java**
+- 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
 - 📫 How to reach me **mihirudmavithya@gmail.com**
 
 - ⚡ Fun fact **Call me as Mavi!**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
