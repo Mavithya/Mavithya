@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently  **studying Computer Science at FCT UOK.**
 
-- 🌱 I’m currently learning **Machine Learning and Deep Learning**
+- 🌱 I’m currently learning **Computer Vision, Deep Learning, LLMs, and Multi-Agent Systems**
 
 - 📫 How to reach me **mihirudmavithya@gmail.com**
 
@@ -27,13 +27,13 @@
 <!-- Frontend -->
 <h3 align="left">🎨 Frontend Development</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,vue,bootstrap,tailwind,angular" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,nextjs,react,vue,angular" />
 </p>
 
 <!-- Backend -->
 <h3 align="left">⚙️ Backend Development</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,nextjs" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi" />
 </p>
 
 <!-- Data Science & AI -->
@@ -45,13 +45,13 @@
 <!-- Databases -->
 <h3 align="left">🗄️ Databases</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,mongodb" />
 </p>
 
 <!-- Tools -->
 <h3 align="left">🛠️ Tools & Platforms</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,vercel,vscode,postman,figma" />
 </p>
 
 <h3 align="left">Support:</h3>
@@ -60,4 +60,4 @@
 <br>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mavithya&show_icons=true&locale=en&layout=compact" alt="mavithya" /></p>
 
-<!-- <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mavithya&show_icons=true&locale=en" alt="mavithya" /></p> --> -->
+<!-- <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mavithya&show_icons=true&locale=en" alt="mavithya" /></p> -->
