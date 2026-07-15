@@ -21,7 +21,7 @@
 <!-- Programming Languages -->
 <h3 align="left">💻 Programming Languages</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cs,java,python,js,ts,php" />
+  <img src="https://skillicons.dev/icons?i=c,python,java,cs,js,ts,php" />
 </p>
 
 <!-- Frontend -->
@@ -33,7 +33,7 @@
 <!-- Backend -->
 <h3 align="left">⚙️ Backend Development</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,dotnet,nextjs" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,nextjs" />
 </p>
 
 <!-- Data Science & AI -->
@@ -58,6 +58,6 @@
 <p><a href="https://www.buymeacoffee.com/Mavithya"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Mavithya" /></a></p><br><br>
 <br>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mavithya&show_icons=true&locale=en&layout=compact" alt="mavithya" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mavithya&show_icons=true&locale=en&layout=compact" alt="mavithya" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mavithya&show_icons=true&locale=en" alt="mavithya" /></p>
+<!-- <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mavithya&show_icons=true&locale=en" alt="mavithya" /></p> --> -->
